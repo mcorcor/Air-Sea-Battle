@@ -1,2 +1,4 @@
 # Air-Sea-Battle
-Java applet game
+Very basic Java applet game where player controls a boat that shoots planes that are trying to bomb it
+
+
