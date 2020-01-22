@@ -4,8 +4,8 @@ import java.awt.Color;
 /**
  * Class for a ship object
  * 
- * @author Matthew Corcoran
- * @version 11.17.2019
+ * @author mcorcor
+ * @version 01.21.2020
  */
 public class Ship extends ActiveObject
 {
